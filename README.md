@@ -46,23 +46,6 @@ I spend my days turning fuzzy prompts into structured, production-ready AI respo
 
 <br/>
 
-## 📡 live_feed
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=harshkhanagwal&show_icons=true&hide_border=true&theme=chartreuse-dark&icon_color=00FFAB&title_color=00FFAB&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhanagwal&layout=compact&hide_border=true&theme=chartreuse-dark&title_color=00FFAB&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=harshkhanagwal&hide_border=true&theme=highcontrast&background=0D1117&ring=00FFAB&fire=00FFAB&currStreakLabel=00FFAB" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshkhanagwal&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFAB&line=00FFAB&point=ffffff" />
-</div>
-
-<br/>
-
 ## 🔗 uplink
 
 <div align="center">
