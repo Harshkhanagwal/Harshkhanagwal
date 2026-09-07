@@ -11,9 +11,13 @@ harsh@dev:~$ whoami
 ```
 
 ```yaml
-role:     Programmer @ Tata Consultancy Services
-mission:  wiring LLMs into real products, not just demos
-fuel:     black coffee + open documentation tabs
+role:       Programmer @ Tata Consultancy Services
+mission:    wiring LLMs into real products, not just demos
+focus:      urning prompts into structured, production-ready responses
+turf:       Linux servers, Bash automation, REST APIs
+mindset:    ship clean, iterate fast, document everything
+fuel:       cold coffee + late night debugging
+status: probably debugging something
 ```
 
 ## 🧠 stack.json
